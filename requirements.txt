@@ -1,0 +1,7 @@
+langchain
+langgraph
+openai
+python-dotenv
+gradio
+duckduckgo-search
+tiktoken
